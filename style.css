@@ -6,7 +6,7 @@ html {
 
  body {
     background-color: coral;
-    background-image: url(images);
+    background-image: url("./fud.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
