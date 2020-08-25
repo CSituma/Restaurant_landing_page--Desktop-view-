@@ -1,4 +1,1 @@
-# Simple-Restaurant-landing-page.
-Really simple unresponsive restaurant landing page for beginners 
-This was my first practice-project into website development. it might look messy for developers, but it's a great place to start for a beginner.
-The best way to learn is to start building!
+This was my first attempt at a website on my journey to web development.Great reminder of how far I've come!
